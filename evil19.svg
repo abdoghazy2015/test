@@ -3,52 +3,6 @@
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
    <text x="0" y="15" fill="red">I love SVG! text injected done</text>
 <a onanimationend</a>
-<a onanimationiteration</a>
-<a onanimationstart</a>
-<a onbeforecopy</a>
-<a onbeforecut</a>
-<a onbeforeinput</a>
-<a onblur</a>
-<a onclick</a>
-<a oncontextmenu</a>
-<a oncopy</a>
-<a oncut</a>
-<a ondblclick</a>
-<a ondrag</a>
-<a ondragend</a>
-<a ondragenter</a>
-<a ondragleave</a>
-<a ondragover</a>
-<a ondragstart</a>
-<a ondrop</a>
-<a onfocus</a>
-<a onfocusin</a>
-<a onfocusout</a>
-<a onkeydown</a>
-<a onkeypress</a>
-<a onkeyup</a>
-<a onmousedown</a>
-<a onmouseenter</a>
-<a onmouseleave</a>
-<a onmousemove</a>
-<a onmouseout</a>
-<a onmouseover</a>
-<a onmouseup</a>
-<a onmousewheel</a>
-<a onpaste</a>
-<a onpointerdown</a>
-<a onpointerenter</a>
-<a onpointerleave</a>
-<a onpointermove</a>
-<a onpointerout</a>
-<a onpointerover</a>
-<a onpointerrawupdate</a>
-<a onpointerup</a>
-<a ontransitionend</a>
-<a onwebkitanimationend</a>
-<a onwebkitanimationiteration</a>
-<a onwebkitanimationstart</a>
-<a onwebkittransitionend</a>
 
  </svg>
 
